@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522933488492",
+    "project_id": "me-chame-ja-ab6fb",
+    "storage_bucket": "me-chame-ja-ab6fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522933488492:android:63959ae0f63612c54d4149",
+        "android_client_info": {
+          "package_name": "com.anonymous.mcjnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBecpkHmF2l7OQ0yleawHaXyC0Kyo7i9Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
